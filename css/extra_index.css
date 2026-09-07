@@ -16,7 +16,7 @@
     border-right: 1px solid #e0e0e0;
 }
 #mapa-general #head > section:nth-child(2), #mapa-general #head > section:nth-child(3){
-    width: 25%;
+    width: 31%;
 }
 
 #mapa-general #head > section p{
@@ -25,7 +25,7 @@
 }
 
 #mapa-general #head > section > p:first-child{
-    background: #2094f3;
+    background: #546d78;
     color: #fff;
 }
 
@@ -35,7 +35,7 @@
 
 #body-ut-head{
     display: flex;
-    background: #ff6e42;
+    background: #546d78;
     color: #fff;
     align-items: center;
 }
@@ -47,16 +47,16 @@
     width: 6%;
 }
 
-#body-ut-head > p:last-child, #body-ut-head > p:nth-child(11) {
+#body-ut-head > p:last-child, #body-ut-head > p:nth-child(10) {
     width: 10.5%;
 }
 
 #body-ut-head > p:first-child {
-    width: 25%;
+    width: 31%;
 }
 
 #body-ut-div{
-    background:#bd5231;
+    background:#3e5059;
     color: #fff;
     text-align: center;
 }
@@ -81,20 +81,20 @@
     width: 6%;
 }
 
-.body-ut > p:last-child, .body-ut > p:nth-child(11) {
+.body-ut > p:last-child, .body-ut > p:nth-child(10) {
     min-width: 10.5%;
     width: 10.5%;
 }
 
 .body-ut> p:first-child {
     text-align: left;
-    min-width: 25%;
-    width: 25%;
+    min-width: 31%;
+    width: 31%;
     padding-left: 10px;
 }
 
 #body-ut-ra{
-    background:#ff6e42;
+    background:#546d78;
     color: #fff;
     text-align: center;
 }
